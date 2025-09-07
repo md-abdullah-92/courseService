@@ -79,6 +79,8 @@ prismaClient.js
 # Project directories
 controllers/
 middleware/
-prisma/
 routes/
 services/
+
+# Prisma generated files (but keep schema and migrations)
+# prisma/ - commented out to track schema.prisma and migrations
