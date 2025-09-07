@@ -79,6 +79,7 @@ prismaClient.js
 # Project directories
 controllers/
 middleware/
+prisma/
 routes/
 services/
 
