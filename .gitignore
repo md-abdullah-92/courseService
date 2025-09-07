@@ -70,7 +70,13 @@ jspm_packages/
 
 # Package-lock backups
 package-lock.json.backup
+package-lock.json
 
+# Node.js application files
+server.js
+prismaClient.js
+
+# Project directories
 controllers/
 middleware/
 prisma/
